@@ -1,0 +1,11 @@
+{
+  "ndk": "E:\\android-ndk-r17c",
+  "revision": {
+    "mMajor": 17,
+    "mMinor": 2,
+    "mMicro": 4988734,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}

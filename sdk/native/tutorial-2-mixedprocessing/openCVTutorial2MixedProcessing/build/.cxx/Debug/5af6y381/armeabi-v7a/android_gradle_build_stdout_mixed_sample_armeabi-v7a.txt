@@ -1,0 +1,2 @@
+Android NDK: WARNING: APP_STL gnustl_static is deprecated and will be removed in the next release. Please switch to either c++_static or c++_shared. See https://developer.android.com/ndk/guides/cpp-support.html for more information.    
+make: Nothing to be done for `mixed_sample'.

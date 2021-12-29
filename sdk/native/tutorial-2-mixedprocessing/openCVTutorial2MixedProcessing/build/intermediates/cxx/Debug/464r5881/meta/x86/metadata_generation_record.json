@@ -1,0 +1,128 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 14 min SDK version: x86",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 638645028
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\.cxx\\Debug\\464r5881\\x86\\android_gradle_build.json due to:",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1584015229
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\.cxx\\Debug\\464r5881\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 524752141
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\.cxx\\Debug\\464r5881\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1740941557
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1336076428
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\.cxx\\Debug\\464r5881\\x86\u0027",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1136745539
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1103323084
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -519109415
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process E:\\android-ndk-r17c\\ndk-build.cmd with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/obj NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\cxx\\Debug\\464r5881/lib APP_CPPFLAGS+\u003d APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\nAndroid NDK: WARNING: APP_STL gnustl_static is deprecated and will be removed in the next release. Please switch to either c++_static or c++_shared. See https://developer.android.com/ndk/guides/cpp-support.html for more information.    \n\nprocess_begin: CreateProcess(NULL, \"\", ...) failed.\nE:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk:5: ../../sdk/native/jni/OpenCV.mk: No such file or directory\nmake: *** No rule to make target `../../sdk/native/jni/OpenCV.mk\u0027.  Stop.\n",
+    "file_": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1458246107
+  }
+]

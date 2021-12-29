@@ -1,0 +1,7 @@
+org/opencv/samples/facedetect/DetectionBasedTracker.java
+ org.opencv.samples.facedetect.DetectionBasedTracker
+org/opencv/samples/facedetect/BuildConfig.java
+ org.opencv.samples.facedetect.BuildConfig
+org/opencv/samples/facedetect/FdActivity.java
+ org.opencv.samples.facedetect.FdActivity
+ org.opencv.samples.facedetect.FdActivity$1

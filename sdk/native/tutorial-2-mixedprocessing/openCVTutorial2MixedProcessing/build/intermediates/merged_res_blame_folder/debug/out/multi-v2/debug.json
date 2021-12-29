@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVLibrary24136\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "422"
+                    }
+                },
+                {
+                    "source": "E:\\OpenCV-android-sdk\\sdk\\native\\tutorial-2-mixedprocessing\\openCVTutorial2MixedProcessing\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

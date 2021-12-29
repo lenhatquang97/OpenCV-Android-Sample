@@ -1,0 +1,2 @@
+E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\src\main\jni\Android.mk
+E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\src\main\jni\Application.mk

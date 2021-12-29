@@ -1,0 +1,21 @@
+                    Executable : E:\android-ndk-r17c\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\OpenCV-android-sdk\samples\face-detection\jni\Android.mk
+NDK_APPLICATION_MK=E:\OpenCV-android-sdk\samples\face-detection\jni\Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=E:\OpenCV-android-sdk\sdk\native\face-detection\openCVSamplefacedetection\build\intermediates\cxx\Debug\u3i4c5e2/obj
+NDK_LIBS_OUT=E:\OpenCV-android-sdk\sdk\native\face-detection\openCVSamplefacedetection\build\intermediates\cxx\Debug\u3i4c5e2/lib
+APP_CPPFLAGS+=
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

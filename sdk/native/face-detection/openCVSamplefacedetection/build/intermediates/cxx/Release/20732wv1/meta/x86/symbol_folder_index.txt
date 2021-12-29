@@ -1,0 +1,1 @@
+E:\OpenCV-android-sdk\sdk\native\face-detection\openCVSamplefacedetection\build\intermediates\cxx\Release\20732wv1\obj\local\x86

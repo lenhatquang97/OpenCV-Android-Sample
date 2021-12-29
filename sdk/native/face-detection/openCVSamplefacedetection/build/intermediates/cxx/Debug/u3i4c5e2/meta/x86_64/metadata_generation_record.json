@@ -1,0 +1,142 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 14 min SDK version: x86_64",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1661529052
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\x86_64\\android_gradle_build.json due to:",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 765630866
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -588644996
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 197654394
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -424861005
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\x86_64\u0027",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1092869320
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\x86_64\u0027",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -801211220
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -220931079
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 648924486
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process E:\\android-ndk-r17c\\ndk-build.cmd with arguments {NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/obj NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/lib APP_CPPFLAGS+\u003d APP_SHORT_COMMANDS\u003dfalse LOCAL_SHORT_COMMANDS\u003dfalse -B -n}\nAndroid NDK: WARNING: APP_STL gnustl_static is deprecated and will be removed in the next release. Please switch to either c++_static or c++_shared. See https://developer.android.com/ndk/guides/cpp-support.html for more information.    \nAndroid NDK: ERROR:E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk:opencv_java: LOCAL_SRC_FILES points to a missing file    \nAndroid NDK: Check that E:/OpenCV-android-sdk/sdk/native/jni/../libs/x86_64/libopencv_java.so exists  or that its path is correct   \n\nprocess_begin: CreateProcess(NULL, \"\", ...) failed.\nE:/android-ndk-r17c/build//../build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.\n",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -40663958
+  }
+]

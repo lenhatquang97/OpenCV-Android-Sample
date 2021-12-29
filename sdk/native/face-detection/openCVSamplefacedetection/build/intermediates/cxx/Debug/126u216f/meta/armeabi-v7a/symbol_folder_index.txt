@@ -1,0 +1,1 @@
+E:\OpenCV-android-sdk\sdk\native\face-detection\openCVSamplefacedetection\build\intermediates\cxx\Debug\126u216f\obj\local\armeabi-v7a

@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 14 min SDK version: armeabi-v7a",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1160506260
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2117059533
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 357485057
+  }
+]

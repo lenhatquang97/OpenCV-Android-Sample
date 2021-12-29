@@ -1,0 +1,4 @@
+Android NDK: WARNING: APP_STL gnustl_static is deprecated and will be removed in the next release. Please switch to either c++_static or c++_shared. See https://developer.android.com/ndk/guides/cpp-support.html for more information.    
+[armeabi-v7a] Compile++ thumb: mixed_sample <= jni_part.cpp
+[armeabi-v7a] Prebuilt       : libopencv_java.so <= E:/OpenCV-android-sdk/sdk/native/jni/../libs/armeabi-v7a/
+[armeabi-v7a] SharedLibrary  : libmixed_sample.so

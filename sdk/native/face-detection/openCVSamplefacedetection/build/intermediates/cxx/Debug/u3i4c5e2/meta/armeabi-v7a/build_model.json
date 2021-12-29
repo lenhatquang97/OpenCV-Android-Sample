@@ -1,0 +1,159 @@
+{
+  "abi": "ARMEABI_V7A",
+  "info": {
+    "abi": "ARMEABI_V7A",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\armeabi-v7a",
+  "soFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2\\obj\\local\\armeabi-v7a",
+  "soRepublishFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a",
+  "abiPlatformVersion": 14,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2\\obj\\local",
+    "soRepublishFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "cxxBuildFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2",
+    "intermediatesFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx",
+      "intermediatesBaseFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates",
+      "intermediatesFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx",
+      "gradleModulePathName": ":openCVSamplefacedetection",
+      "moduleRootFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection",
+      "moduleBuildFile": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build.gradle",
+      "makeFile": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "E:\\android-ndk-r17c",
+      "ndkVersion": "17.2.4988734",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 14,
+        "max": 28,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "E:\\android-ndk-r17c\\build\\cmake\\android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "GNUSTL_SHARED": {
+          "ARMEABI_V7A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\libgnustl_shared.so",
+          "ARM64_V8A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\libgnustl_shared.so",
+          "X86": "E:\\android-ndk-r17c\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\libgnustl_shared.so",
+          "X86_64": "E:\\android-ndk-r17c\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\libgnustl_shared.so"
+        },
+        "GNUSTL_STATIC": {},
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\llvm-libc++\\libs\\armeabi-v7a\\libc++_shared.so",
+          "ARM64_V8A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\llvm-libc++\\libs\\arm64-v8a\\libc++_shared.so",
+          "X86": "E:\\android-ndk-r17c\\sources\\cxx-stl\\llvm-libc++\\libs\\x86\\libc++_shared.so",
+          "X86_64": "E:\\android-ndk-r17c\\sources\\cxx-stl\\llvm-libc++\\libs\\x86_64\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "STLPORT_SHARED": {
+          "ARMEABI_V7A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\stlport\\libs\\armeabi-v7a\\libstlport_shared.so",
+          "ARM64_V8A": "E:\\android-ndk-r17c\\sources\\cxx-stl\\stlport\\libs\\arm64-v8a\\libstlport_shared.so",
+          "X86": "E:\\android-ndk-r17c\\sources\\cxx-stl\\stlport\\libs\\x86\\libstlport_shared.so",
+          "X86_64": "E:\\android-ndk-r17c\\sources\\cxx-stl\\stlport\\libs\\x86_64\\libstlport_shared.so"
+        },
+        "STLPORT_STATIC": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection",
+        "sdkFolder": "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "gnustl_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Debug\\u3i4c5e2\\prefab\\armeabi-v7a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "u3i4c5e2v6r3j5v6r5k31k3s4s6v6c1r41cx1i5g1n2c1z4x1l13r6d3s33",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-14",
+    "NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/obj",
+    "NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Debug\\u3i4c5e2/lib",
+    "APP_CPPFLAGS+\u003d"
+  ]
+}

@@ -1,0 +1,2 @@
+E:\OpenCV-android-sdk\samples\face-detection\jni\Android.mk
+E:\OpenCV-android-sdk\samples\face-detection\jni\Application.mk

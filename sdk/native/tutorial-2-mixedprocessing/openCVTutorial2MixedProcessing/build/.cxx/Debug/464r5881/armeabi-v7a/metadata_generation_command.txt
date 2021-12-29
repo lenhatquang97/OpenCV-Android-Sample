@@ -1,0 +1,21 @@
+                    Executable : E:\android-ndk-r17c\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\src\main\jni\Android.mk
+NDK_APPLICATION_MK=E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\src\main\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\build\intermediates\cxx\Debug\464r5881/obj
+NDK_LIBS_OUT=E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\build\intermediates\cxx\Debug\464r5881/lib
+APP_CPPFLAGS+=
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

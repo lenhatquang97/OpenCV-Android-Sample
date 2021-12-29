@@ -1,0 +1,11 @@
+org.opencv.samples.facedetect:string/app_name = 0x7f060000
+org.opencv.samples.facedetect:raw/lbpcascade_frontalface = 0x7f050000
+org.opencv.samples.facedetect:id/fd_activity_surface_view = 0x7f030002
+org.opencv.samples.facedetect:layout/face_detect_surface_view = 0x7f040000
+org.opencv.samples.facedetect:id/front = 0x7f030003
+org.opencv.samples.facedetect:drawable/icon = 0x7f020000
+org.opencv.samples.facedetect:id/back = 0x7f030001
+org.opencv.samples.facedetect:id/any = 0x7f030000
+org.opencv.samples.facedetect:attr/show_fps = 0x7f010001
+org.opencv.samples.facedetect:styleable/CameraBridgeViewBase = 0x7f070000
+org.opencv.samples.facedetect:attr/camera_id = 0x7f010000

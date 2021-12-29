@@ -1,0 +1,5 @@
+org/opencv/samples/tutorial2/BuildConfig.java
+ org.opencv.samples.tutorial2.BuildConfig
+org/opencv/samples/tutorial2/Tutorial2Activity.java
+ org.opencv.samples.tutorial2.Tutorial2Activity
+ org.opencv.samples.tutorial2.Tutorial2Activity$1

@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:5:7-37
+	xmlns:android
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml:4:7-34
+uses-sdk
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+		ADDED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml
+		INJECTED from E:\OpenCV-android-sdk\sdk\native\face-detection\openCVLibrary24136\src\main\AndroidManifest.xml

@@ -1,0 +1,20 @@
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:29:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:60:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:89:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:114:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:139:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+E:/OpenCV-android-sdk/samples/face-detection/jni/DetectionBasedTracker_jni.cpp:171:5: error: cannot use 'try' with exceptions disabled
+    try
+    ^
+6 errors generated.
+make: *** [E:\OpenCV-android-sdk\sdk\native\face-detection\openCVSamplefacedetection\build\intermediates\cxx\Debug\u3i4c5e2/obj/local/armeabi-v7a/objs-debug/detection_based_tracker/DetectionBasedTracker_jni.o] Error 1

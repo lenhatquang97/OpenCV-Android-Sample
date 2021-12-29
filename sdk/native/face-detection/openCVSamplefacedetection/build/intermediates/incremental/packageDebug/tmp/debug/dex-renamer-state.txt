@@ -1,0 +1,4 @@
+#Wed Dec 29 09:03:33 ICT 2021
+base.0=E\:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

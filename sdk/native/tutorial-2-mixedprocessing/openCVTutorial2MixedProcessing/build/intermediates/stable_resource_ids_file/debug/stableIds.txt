@@ -1,0 +1,10 @@
+org.opencv.samples.tutorial2:styleable/CameraBridgeViewBase = 0x7f060000
+org.opencv.samples.tutorial2:layout/tutorial2_surface_view = 0x7f040000
+org.opencv.samples.tutorial2:id/tutorial2_activity_surface_view = 0x7f030003
+org.opencv.samples.tutorial2:id/front = 0x7f030002
+org.opencv.samples.tutorial2:attr/camera_id = 0x7f010000
+org.opencv.samples.tutorial2:drawable/icon = 0x7f020000
+org.opencv.samples.tutorial2:attr/show_fps = 0x7f010001
+org.opencv.samples.tutorial2:id/back = 0x7f030001
+org.opencv.samples.tutorial2:string/app_name = 0x7f050000
+org.opencv.samples.tutorial2:id/any = 0x7f030000

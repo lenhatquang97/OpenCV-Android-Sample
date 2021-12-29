@@ -1,0 +1,67 @@
+{
+  "buildFiles": [
+    "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\android-ndk-r17c\\ndk-build.cmd",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+      "NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk",
+      "APP_ABI\u003dx86",
+      "NDK_ALL_ABIS\u003dx86",
+      "NDK_DEBUG\u003d0",
+      "APP_PLATFORM\u003dandroid-14",
+      "NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj",
+      "NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/lib",
+      "APP_CPPFLAGS+\u003d",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\android-ndk-r17c\\ndk-build.cmd",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-14",
+    "NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj",
+    "NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/lib",
+    "APP_CPPFLAGS+\u003d",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "detection_based_tracker-release-x86": {
+      "buildCommandComponents": [
+        "E:\\android-ndk-r17c\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk",
+        "APP_ABI\u003dx86",
+        "NDK_ALL_ABIS\u003dx86",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-14",
+        "NDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj",
+        "NDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/lib",
+        "APP_CPPFLAGS+\u003d",
+        "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj/local/x86/libdetection_based_tracker.so"
+      ],
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "detection_based_tracker",
+      "output": "E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1\\obj\\local\\x86\\libdetection_based_tracker.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "E:\\android-ndk-r17c\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

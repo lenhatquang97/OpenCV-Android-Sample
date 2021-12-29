@@ -1,0 +1,1 @@
+E:\OpenCV-android-sdk\sdk\native\tutorial-2-mixedprocessing\openCVTutorial2MixedProcessing\build\intermediates\cxx\Debug\5af6y381\obj\local\armeabi-v7a

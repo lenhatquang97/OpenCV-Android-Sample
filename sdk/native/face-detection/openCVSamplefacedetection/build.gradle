@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    packagingOptions {
+        pickFirst 'lib/armeabi-v7a/libopencv_java.so'
+    }
+    compileSdkVersion 30
+    ndkVersion "17.2.4988734"
+    buildToolsVersion "31.0.0"
+
+    defaultConfig {
+        applicationId "org.opencv.samples.facedetect"
+        minSdkVersion 8
+        targetSdkVersion 30
+
+        ndk {
+            abiFilters "armeabi-v7a"
+            moduleName "detection_based_tracker"
+        }
+        externalNativeBuild {
+            ndkBuild {
+                cppFlags "-fexceptions"
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    externalNativeBuild {
+        ndkBuild {
+            path file('../../../../samples/face-detection/jni/Android.mk')
+        }
+    }
+}
+
+dependencies {
+    api project(':openCVLibrary24136')
+}

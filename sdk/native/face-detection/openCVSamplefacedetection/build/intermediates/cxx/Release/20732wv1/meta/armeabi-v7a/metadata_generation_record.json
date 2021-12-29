@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 14 min SDK version: armeabi-v7a",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1432147312
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Release\\20732wv1\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1273259882
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Release\\20732wv1\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1586579646
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Release\\20732wv1\\armeabi-v7a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1915036192
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1324411796
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Release\\20732wv1\\armeabi-v7a\u0027",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1246068694
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1662929535
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : E:\\android-ndk-r17c\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dE:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-14\nNDK_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/obj\nNDK_LIBS_OUT\u003dE:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\cxx\\Release\\20732wv1/lib\nAPP_CPPFLAGS+\u003d\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -859841522
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -233071517
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Application.mk",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1484283254
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1631775049
+  },
+  {
+    "level_": 0,
+    "message_": "write command file E:\\OpenCV-android-sdk\\sdk\\native\\face-detection\\openCVSamplefacedetection\\build\\.cxx\\Release\\20732wv1\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 583728394
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "E:\\OpenCV-android-sdk\\samples\\face-detection\\jni\\Android.mk",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1344828667
+  }
+]
